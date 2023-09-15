@@ -47,4 +47,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/nadahimdi
+[linkedin]: https://www.linkedin.com/in/nada-himdi-91117a233/
